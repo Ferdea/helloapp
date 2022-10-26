@@ -22,6 +22,8 @@ namespace HelloApp
         public static void Main(string[] args)
         {
             PrintHello();
+            GreetBlack();
+            GreetWhite();
         }
     }
 }

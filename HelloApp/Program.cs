@@ -4,6 +4,11 @@ namespace HelloApp
 {
     internal class Program
     {
+        private static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
+        }
+        
         private static void GreetWhite()
         {
             Console.WriteLine("hello white");

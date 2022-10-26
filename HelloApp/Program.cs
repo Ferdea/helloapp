@@ -11,7 +11,7 @@ namespace HelloApp
         
         private static void PrintHello()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
         }
         
         public static void Main(string[] args)
